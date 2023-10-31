@@ -1,0 +1,60 @@
+[
+    {
+        "name": "og-image-generator",
+        "emoji": "🚀",
+        "tags": ["astro","npm"],
+        "description": "Integration to generate static Open Graph images, at build time",
+        "repo": "https://github.com/CyberKoalaStudios/og-image-generator",
+        "featured": true,
+        "featureImage": "https://camo.githubusercontent.com/8799076323a8d403cae5b9b2ffb456f067b7eb19465180e886091cef4cdc07a0/68747470733a2f2f692e6962622e636f2f764c326d56547a2f61727469636c65732d746573742e706e67"
+    },
+    {
+        "name": "KoalaGPTAPI-UE",
+        "emoji": "🤖",
+        "tags": ["unreal engine","ai"],
+        "description": "An official Unreal Engine package that allows you to use the KoalaGPT API directly in the Unreal Engine.",
+        "repo": "https://github.com/CyberKoalaStudios/KoalaGPTAPI-UE"
+    },
+    {
+        "name": "KoalaGPT-Unity",
+        "emoji": "🤖",
+        "tags": ["unity","ai"],
+        "description": "An official Unity package that allows you to use the KoalaGPT API directly in the Unity game engine.",
+        "repo": "https://github.com/CyberKoalaStudios/KoalaGPT-Unity"
+    },
+    {
+        "name": "SMM-Cross-Poster",
+        "emoji": "📫",
+        "tags": ["smm","c#"],
+        "description": "YouTube, Telegram, Discord, VK Cross poster",
+        "repo": "https://github.com/CyberKoalaStudios/SMM-Cross-Poster"
+    },
+    {
+        "name": "VR-in-Linux-Ubuntu-manual",
+        "emoji": "🥽",
+        "tags": ["linux","ubuntu"],
+        "description": "VR boilerplate for Ubuntu users",
+        "repo": "https://github.com/CyberKoalaStudios/VR-in-Linux-Ubuntu-manual"
+    },
+    {
+        "name": "Metaverse",
+        "emoji": "🥽",
+        "tags": ["unity"],
+        "description": "Metaverse UI Design practices",
+        "repo": "https://github.com/CyberKoalaStudios/Metaverse"
+    },
+    {
+      "name": "avengers-recognition",
+      "emoji": "🦸",
+      "tags": ["keras", "tensorflow"],
+      "description": "Celebrity face recognition neural network",
+      "repo": "https://github.com/CyberKoalaStudios/avengers-recognition"
+    },
+    {
+      "name": "yt-comments-feed",
+      "emoji": "📺",
+      "tags": ["vue", "comments"],
+      "description": "YouTube channel comments feed",
+      "repo": "https://github.com/CyberKoalaStudios/yt-comments-feed"
+    }
+]

@@ -7,7 +7,7 @@ import repos from "../static/data/data.json";
 
 <Layout title="Welcome to CyberKoala.">
 	<main>
-		<h1>Open Source by <span class="text-gradient">CyberKoala</span></h1>
+		<h1>Projects by <span class="text-gradient">CyberKoala</span></h1>
 
 		<ul role="list" class="link-card-grid">
 			{
@@ -19,6 +19,8 @@ import repos from "../static/data/data.json";
 							description={repo.description}
 							emoji={repo.emoji}
 							tags={repo.tags}
+							featureImage={repo.featureImage || ""}
+							featured={repo.featured || false}
 						/>
 					),
 				)

@@ -1,5 +1,13 @@
 [
     {
+        "name": "CyberKoala AI",
+        "emoji": "🤖",
+        "tags": ["unity","unreal engine"],
+        "description": "AI tools for game developers",
+        "repo": "https://beta.cyberkoala.ru",
+        "featured": true
+    },
+    {
         "name": "og-image-generator",
         "emoji": "🚀",
         "tags": ["astro","npm"],
